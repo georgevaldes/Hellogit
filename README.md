@@ -1,4 +1,6 @@
 Hellogit
 ========
 
-Testing 
+Testing.
+
+This is awesome.
